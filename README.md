@@ -62,6 +62,21 @@ class OwnerControllerTest {
 
 ### Bean : 스프링 Ioc 컨테이너가 관리하는 객체
 
-- 이름 또는 ID
-- 타입
-- 스코프
+#### 등록하는 방법 
+
+- Component Scanning
+  - @Component
+    - @Repository
+    - @Service
+    - Controller
+- XML 또는 자바 설정 파일에 등록(@Configuration)
+
+#### 컨테이너에서 꺼내쓰는 법
+
+- @Autowried 또는 @Inject
+- 또는 ApplicationContext에서 getBean()
+
+
+
+### 의존성 주입 (Dependency Injection)
+
