@@ -69,7 +69,7 @@ class OwnerControllerTest {
     - @Repository
     - @Service
     - Controller
-- XML 또는 자바 설정 파일에 등록(@Configuration)
+- XML 또는 자바 설정 파일에 등록(@Configuratio 되어 있는 Class에서  @Bean)
 
 #### 컨테이너에서 꺼내쓰는 법
 
