@@ -32,8 +32,11 @@ import org.springframework.transaction.annotation.Transactional;
  * @author Sam Brannen
  * @author Michael Isvy
  */
+// 빈을 등록하는 어노테이션이 생략된 이유는?
+// 부모 Repository에서 Spring Lifecycle 상황에 맞춰서 빈을 등록(Repository의 경우 JPA에서 빈 등록을 담당)
 public interface PetRepository extends Repository<Pet, Integer> {
 
+	// @Transactional은 JPA 클래스에 전반적으로 실행되어짐
 	/**
 	 * Retrieve all {@link PetType}s from the data store.
 	 * @return a Collection of {@link PetType}s.
