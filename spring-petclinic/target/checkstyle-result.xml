@@ -1,17 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.32">
-<file name="C:\Users\PYONG\Desktop\MyCode\Inflearn-Spring_Framework_Introdution\spring-petclinic\src\main\java\org\springframework\samples\petclinic\aspect\LogAspect.java">
-</file>
-<file name="C:\Users\PYONG\Desktop\MyCode\Inflearn-Spring_Framework_Introdution\spring-petclinic\src\main\java\org\springframework\samples\petclinic\aspect\LogExecutionTime.java">
-</file>
-<file name="C:\Users\PYONG\Desktop\MyCode\Inflearn-Spring_Framework_Introdution\spring-petclinic\src\main\java\org\springframework\samples\petclinic\owner\OwnerController.java">
-</file>
-<file name="C:\Users\PYONG\Desktop\MyCode\Inflearn-Spring_Framework_Introdution\spring-petclinic\src\main\java\org\springframework\samples\petclinic\owner\PetController.java">
-</file>
-<file name="C:\Users\PYONG\Desktop\MyCode\Inflearn-Spring_Framework_Introdution\spring-petclinic\src\main\java\org\springframework\samples\petclinic\owner\PetRepository.java">
-</file>
-<file name="C:\Users\PYONG\Desktop\MyCode\Inflearn-Spring_Framework_Introdution\spring-petclinic\src\main\java\org\springframework\samples\petclinic\owner\SampleController.java">
-</file>
-<file name="C:\Users\PYONG\Desktop\MyCode\Inflearn-Spring_Framework_Introdution\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java">
-</file>
 </checkstyle>

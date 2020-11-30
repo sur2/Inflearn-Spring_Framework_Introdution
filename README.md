@@ -141,4 +141,12 @@ public class LogAspect {
 
 ### PSA : Portable Service Abstraction
 
-잘 만든 인터페이스
+잘 만든 인터페이스~
+
+추상적인 또는 인터페이스로 구현한 구현체는 목적에 따라 다르게 구현되어도 사용함에 문제가 없어야한다.
+
+
+
+### TEST
+
+@MokBean : Test를 위한 가짜 Bean
